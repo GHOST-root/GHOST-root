@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @GHOST-root
+- 👋 Hi, I’m virulent
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Anonymous
+- 📫 How to reach me https://t.me/virulentw
+- 😄 Pronouns: Anonymous
+- ⚡ Fun fact: I'm Anonymous
 
 <!---
 GHOST-root/GHOST-root is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
